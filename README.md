@@ -1,3 +1,3 @@
-# meu primeiro repositório
+# meu primeiro commit
  
-##minha primeira vez fazendo um repositoriorepositório
+## minha primeira vez fazendo um commit
